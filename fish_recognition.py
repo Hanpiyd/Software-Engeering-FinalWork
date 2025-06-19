@@ -623,3 +623,5 @@ def load_and_predict(image_path):
 
 if __name__ == "__main__":
     main()
+
+# R8前置：分支2修改
